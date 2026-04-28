@@ -45,6 +45,10 @@ https://stellar.expert/explorer/testnet/tx/fe885a29018793a51b1d225c66d9eb639bc99
 Contract ID:
 CAO44KSHZEKVEMJXJFLHHUZ4QJLPITB4MGX2PPN2D3YRRGTQV4JYZXKJ
 
+#Contract's screenshot
+<img width="1444" height="822" alt="image" src="https://github.com/user-attachments/assets/2e2cf378-a08d-4886-b49f-773778de16da" />
+
+
 #Future scopes
 Build a web frontend for users and administrators.
 Add QR-code verification for activity proof.
